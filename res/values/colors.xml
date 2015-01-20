@@ -37,7 +37,7 @@
 
     <!-- Drawer -->
     <color name="drawer_item_textcolor">#fff</color>
-    <color name="drawer_item_default">#1c2025</color>
+    <color name="drawer_item_default">@*android:color/material_deep_teal_500</color>
     <color name="drawer_item_pressed">#37474F</color>
     <color name="drawer_divider_line">#ffffff</color>
 </resources>
